@@ -1,0 +1,49 @@
+.main{
+    width: 900px;
+    height: 700px;
+    background-color: green;
+}
+
+.land{
+    background-image: url(img/land.jpg);
+    height: 100%;
+    background-size: 450px;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+
+.hedgehod{
+    background-image: url(img/hedgehog.jpg);
+    height: 100%;
+    background-size: 30px;
+    background-repeat: repeat-y;
+    margin-top: -700px;
+}
+
+.cake{
+    background-image: url(img/cake.jpg);
+    height: 100%;
+    background-size: 30px;
+    background-repeat: repeat-y;
+    margin-top: -700px;
+    margin-left: 870px;
+}
+
+
+.grass{
+    background-image: url(img/grass.png);
+    height: 100%;
+    background-size: 200px;
+    background-repeat: repeat-x;
+    margin-top: -150px;
+}
+
+.bulb{
+    background-image: url(img/bulb.png);
+    height: 100%;
+    background-size: 65px;
+    background-repeat: repeat-x;
+    margin-top: -1250px;
+}
+
